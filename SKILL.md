@@ -1,7 +1,10 @@
 ---
+slug: qianjin-data-analysis
+displayName: 电商用户销售数据分析
+summary: "数据分析专家技能。当用户提供数据表格（CSV/Excel 文件或直接粘贴的表格）并希望得到一份结构化分析、结论与行动建议时使用——尤其针对电商数据（订单/GMV/转化/复购）、用户数据（RFM 分层/同期群留存/流失）与销售数据（趋势..."
 name: qianjin-data-analysis
 description: 数据分析专家技能。当用户提供数据表格（CSV/Excel 文件或直接粘贴的表格）并希望得到一份结构化分析、结论与行动建议时使用——尤其针对电商数据（订单/GMV/转化/复购）、用户数据（RFM 分层/同期群留存/流失）与销售数据（趋势/预测/区域品类）。内置 AARRR 海盗模型、HEART 增长质量模型、转化漏斗、RFM、同期群、SWOT/波特五力/PEST 等 7 大分析模型，覆盖"发生了什么→为什么→怎么转→往哪走"全链路。输出为 Markdown 分析报告，附带可执行建议。触发词：分析这份数据、做个数据复盘、用户分层、RFM、AARRR、留存分析、转化漏斗、增长分析、销售预测、SWOT、这份表帮我看看。
-version: "1.0"
+version: 1.0.0
 category: 数据分析
 platforms:
   - workbuddy
